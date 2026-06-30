@@ -1,4 +1,4 @@
-# Physics-Informed Shuffle Reservoir Spiking Neural Network for Battery SOH Estimation
+# Physics-Informed Shuffle Reservoir Spiking Neural Network for Battery SOH Estimation(2nd author)
 
 This repository contains a physics-informed shuffle reservoir spiking neural network (PI-SRSNN) framework for lithium-ion battery state-of-health (SOH) estimation. The project combines event-driven spiking reservoir computing, grouped channel-shuffled recurrent connectivity, physics-guided battery degradation features, and lightweight ridge-regression readouts to estimate relative capacity across heterogeneous battery datasets.
 
